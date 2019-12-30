@@ -68,7 +68,7 @@ font-weight: lighter;
      
     <p class="hello-text">hello</p>
     
-    <img id="picme" src="https://drive.google.com/file/d/1hcdw6UxusDdG0-vyQHNf5bZWM17oLlCm/view?usp=sharing">
+    <img id="picme" src="https://imgur.com/a/TSd11zj">
 
     <p class="text-02">its nice to see u</p>
   
