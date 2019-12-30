@@ -64,11 +64,11 @@ font-weight: lighter;
         </style>
     </head>
     <body>
-        <canvas data-processing-sources="COMP_cutie_02.pde"></canvas>
+    
      
     <p class="hello-text">hello</p>
     
-    <img id="picme" src="https://imgur.com/a/TSd11zj">
+    <img id="picme" src=https://imgur.com/a/TSd11zj>
 
     <p class="text-02">its nice to see u</p>
   
