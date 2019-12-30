@@ -42,11 +42,13 @@
            img{
             border-radius: 50%;
   -webkit-transition: -webkit-transform .2s;
-          transition:         transform .2s;
+         
            }
            img:hover {
  -webkit-transform: rotate(7deg);
-          transform: rotate(7deg);
+ border: solid 5px;
+ border-color: rgb(255,0,0);
+          
            }
         .text-02{
 position:absolute;
@@ -68,7 +70,7 @@ font-weight: lighter;
      
     <p class="hello-text">hello</p>
     
-    <img id="picme" src=https://imgur.com/a/TSd11zj>
+    <img id="picme" src=https://imgur.com/XdKDQss>
 
     <p class="text-02">its nice to see u</p>
   
